@@ -76,7 +76,7 @@
 		        <artifactId>heroku-maven-plugin</artifactId>
 		        <version>3.0.3</version>
 		        <configuration>
-			        <appName>Questionados</appName>
+			        <appName>app-springboot-questionados</appName>
 			    </configuration>
 		    </plugin>
 		</plugins>
