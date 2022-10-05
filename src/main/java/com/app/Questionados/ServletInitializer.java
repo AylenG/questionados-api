@@ -1,4 +1,4 @@
-package com.apg.Questionados;
+package com.app.Questionados;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
