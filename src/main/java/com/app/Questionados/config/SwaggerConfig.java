@@ -14,7 +14,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 @Configuration
 public class SwaggerConfig {
 	
-	private final static String BASE_PACKAGE = "com.github.sanchezih.ownblog.controller";
+	private final static String BASE_PACKAGE = "com.app.Questionados.controller";
 
 	@Bean
 	public Docket api() {
