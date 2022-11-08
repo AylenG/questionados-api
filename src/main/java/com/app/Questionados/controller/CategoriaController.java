@@ -26,7 +26,7 @@ import com.app.Questionados.service.ICategoriaService;
 import io.swagger.annotations.ApiOperation;
 
 @RestController
-@RequestMapping("/categorias")
+@RequestMapping("/api/categorias")
 public class CategoriaController {
 
 	final static Logger logger = LogManager.getLogger(CategoriaController.class);

@@ -23,7 +23,7 @@ import com.app.Questionados.service.IPreguntaService;
 import io.swagger.annotations.ApiOperation;
 
 @RestController
-@RequestMapping("/questionados")
+@RequestMapping("/api/questionados")
 public class QuestionadosController {
 
 	final static Logger logger = LogManager.getLogger(QuestionadosController.class);
